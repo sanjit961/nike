@@ -1,20 +1,3 @@
-    updated on: 19th November 2024, Tuesday
-
-<div align="center" style="position: relative;">
-    <a href="https://niike.vercel.app">
-        <img width="200" alt="Nike" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75939390/263081983-13f332c1-d94b-4a53-88d3-6b06eb85ee34.png">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent;"></div>
-    </a>
-    <p style="font-family: Roboto, Calibri; font-size: 12pt; font-style: italic">Just Do it!</p>
-    <a href="https://github.com/warmachine028/nike/forks">
-        <img alt="GitHub forks" src="https://img.shields.io/github/forks/warmachine028/nike?color=orange">
-    </a>
-    <a href="https://github.com/warmachine028/nike/stargazers">
-        <img alt="GitHub forks" src="https://img.shields.io/github/stars/warmachine028/nike">
-    </a>
-</div>
-
-# [Nike](https://niike.vercel.app)
 
 ![line]
 
@@ -61,32 +44,7 @@
 
 ## Preview
 
-![](https://github.com/warmachine028/nike/assets/75939390/340f4f1b-fe6d-4480-8a7e-59b9994afaff)
+![](https://github.com/sanjit961/nike/assets/75939390/340f4f1b-fe6d-4480-8a7e-59b9994afaff)
 
 ![line]
 
-## Best Contributors
-
-<div align="center">
-    <a  href="https://github.com/warmachine028/nike/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=warmachine028/nike" />
-    </a>
-</div>
-
-![line]
-
-## License
-
--   See [LICENSE]
-
-**Pritam, 2023**
-
-![line]
-
-## Thank you, everyone 💚
-
-[line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
-[License]: https://github.com/warmachine028/nike/blob/main/LICENSE
-[badges]: https://github.com/Ileriayo/markdown-badges
-
-<!-- 19/11/24 -->
