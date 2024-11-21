@@ -1,50 +1,88 @@
 
-![line]
+# Nike Landing Page 🏃‍♂️👟
 
-## Table of Contents
+A sleek and modern landing page inspired by Nike, designed to showcase products with style and functionality. Built using **Next.js** and **TailwindCSS**, this fully responsive landing page delivers a smooth user experience with a visually appealing design.
 
-- [Introduction](#introduction)
-- [Development](#development)
-- [Tech Stack Used](#tech-stack-used)
-- [Preview](#preview)
-- [Best Contributors](#best-contributors)
-- [License](#license)
+---
 
-![line]
+## 🚀 Features
 
-## Introduction
+- **Modern Design**: Inspired by Nike's iconic branding, featuring a clean, bold aesthetic.
+- **Responsive Layout**: Perfectly optimized for desktops, tablets, and mobile devices.
+- **Fast Performance**: Built with Next.js for lightning-fast navigation.
+- **Custom Styling**: Tailored with TailwindCSS for pixel-perfect designs.
+- **Interactive Elements**: Hover effects and dynamic components for enhanced user engagement.
 
-- Discover a fully open-sourced React and Tailwind CSS landing page that captures Nike's iconic visual design.
-- Experience a responsive and intuitive user interface that adapts seamlessly to various devices and screen sizes.
-- Contribute effortlessly with modular React components and clear guidelines, fostering a collaborative development environment.
-- Immerse yourself in a stunning UI/UX showcase that mirrors Nike's brand identity while maintaining a contributor-friendly approach.
+---
 
-![line]
+## 🛠️ Tech Stack
 
-## Development
+- **Frontend**: Next.js, TailwindCSS  
+- **Styling**: Customizable styles powered by Tailwind's utility-first framework  
 
-```sh
-> npm install
-> npm run dev
-```
+---
 
-![line]
+## Screenshots of the project
 
-## Tech Stack Used
+Below are screenshots of the application in action:
 
-- React: Frontend Development
-- TailwindCSS: Styling
-- Vite: Build optimizer
-- Git & Github: Version Control
-- Vercel: Hosting
+![Login Screen](./project-screenshot/01.png)
+![Registration Screen](./project-screenshot/02.png)
+![Chat Interface](./project-screenshot/03.png)
+![Chat Room Selection](./project-screenshot/04.png)
+![Chat Room Selection](./project-screenshot/05.png)
+![Chat Room Selection](./project-screenshot/06.png)
+![Chat Room Selection](./project-screenshot/07.png)
+![Chat Room Selection](./project-screenshot/08.png)
+![Chat Room Selection](./project-screenshot/09.png)
+![Chat Room Selection](./project-screenshot/10.png)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
-![line]
+## ⚙️ Installation
 
-## Preview
+1. Clone the repository:
 
-![](https://github.com/sanjit961/nike/assets/75939390/340f4f1b-fe6d-4480-8a7e-59b9994afaff)
+   ```bash
+   git clone https://github.com/sanjit961/nike.git
+   ```
 
-![line]
+2. Navigate to the project directory:
 
+   ```bash
+   cd nike-landing-page
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+---
+
+## 🎨 Customization
+
+- **Tailwind Config**: Modify the `tailwind.config.js` file for custom themes and colors.
+- **Components**: Update the reusable components in the `components/` folder for additional functionality.
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+⭐ **Show your support by starring this project!**
